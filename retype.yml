@@ -4,5 +4,11 @@ url: library.nvoid.io
 branding:
   title: nvoid.io
   label: library
+  # logo: /static/nvoid-logo-full-04b4af.png
+edit:
+  repo: "https://github.com/nvoid-io/nvoid-library"
+  branch: main
 footer:
   copyright: "&copy; Copyright {{ 2023 }}. All rights reserved."
+generator:
+  recase: none
